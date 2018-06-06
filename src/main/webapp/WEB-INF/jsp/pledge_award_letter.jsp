@@ -1,0 +1,1 @@
+${jsonResponse.jsonMap.pledgeLetterBody}
